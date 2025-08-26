@@ -22,8 +22,7 @@ Upload one or more PDF documents, ask natural language questions, and get contex
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/rag-pdf-chatbot.git
-cd rag-pdf-chatbot
+git clone https://github.com/minhazriyam/RAG-Based-PDF-Chatbot-with-LangChain-Gemini-API.git
 ```
 
 ### 2. Create and activate a virtual environment
