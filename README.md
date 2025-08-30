@@ -7,18 +7,18 @@ Upload one or more PDF documents, ask natural language questions, and get contex
 
 ---
 
-## ✨ Features
-- 🔍 Extracts and chunks text from uploaded PDFs  
-- 🧠 Builds embeddings with **Google Generative AI** (`models/embedding-001`)  
-- 📂 Stores embeddings in a local **FAISS vector store**  
-- 💬 Answers your questions using **Gemini (gemini-2.5-flash)**  
-- 🗂️ Maintains conversation history with timestamps and source PDFs  
-- ⬇️ Export conversation history as a CSV file  
-- 🎨 Professional dark UI with styled chat bubbles  
+##  Features
+-  Extracts and chunks text from uploaded PDFs  
+-  Builds embeddings with **Google Generative AI** (`models/embedding-001`)  
+-  Stores embeddings in a local **FAISS vector store**  
+-  Answers your questions using **Gemini (gemini-2.5-flash)**  
+-  Maintains conversation history with timestamps and source PDFs  
+-  Export conversation history as a CSV file  
+-  Professional dark UI with styled chat bubbles  
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
